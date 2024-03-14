@@ -1,12 +1,12 @@
-#!/usr/bin/bash/python3
-def add(a,b):
-    """This function will take two
-    intergers and retrn their sum
+#!/usr/bin/python3
+def add(a, b):
+    """My addition function
 
-    Args: a - first int
-          b - second int
+    Args:
+        a: first integer
+        b: second integer
 
-    Return: Return the sumof a and b
+    Returns:
+        The return value. a + b
     """
-
-    return (a+b)
+    return (a + b)
