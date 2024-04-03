@@ -2,8 +2,8 @@
 
 def raise_exception_msg(message=""):
     """Raise a NameError exception with a message."""
-    raise NameError(message)g!/usr/bin/python3
+    raise NameError(message)#!/usr/bin/python3
 
 def raise_exception_msg(message=""):
     """Raise a NameError exception with a message."""
-    raise Name)
+    raise Name
